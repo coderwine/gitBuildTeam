@@ -10,7 +10,7 @@ let students = [
         icon: ''
     },
     {
-        cohort: 855,
+        cohort: 85,
         name: 'Bobby Dylan: LA',
         icon: ''
     },
