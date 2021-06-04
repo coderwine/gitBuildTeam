@@ -9,4 +9,9 @@ let students = [
         name: 'Adam Clouse: LA',
         icon: ''
     },
+    {
+        cohort: 855,
+        name: 'Bobby Dylan: LA',
+        icon: ''
+    },
 ]
