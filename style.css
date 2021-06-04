@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    margin-bottom:1rem;
+}
+
+#showcase {
+    height: 90vh;
+    margin-top: 3rem;
+    background-color: lightgrey;
+    overflow-y: scroll;
+}
+
+table tbody tr {
+    /* Center Displayed Text */
+}
+
+.imgSizes {
+    height: 50px;
+    width: 50px;
+}
+
+footer {
+    background-color: rgba(255,255,255,.7);
+}
